@@ -7,4 +7,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **_my film_**
 - 🌱 I’m currently learning **_Python & HTML_**
 - ⚡ Fun fact **_I like women_**
+- 🙊 I can pronounce **_llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch_**
 
